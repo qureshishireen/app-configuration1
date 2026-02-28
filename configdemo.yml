@@ -3,3 +3,4 @@ build:
   version: 100.2.3
   name : "Dev-production-build"
   type : "Devlopment"
+  default-label: dev
